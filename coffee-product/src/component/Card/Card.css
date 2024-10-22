@@ -1,0 +1,18 @@
+
+.card{
+    padding:20px 40px;
+    border: 1px solid grey;
+    border-radius: 20px;
+    background-color:burlywood;
+    color: brown;
+    margin: 40px;
+}
+.card img{
+    width:  300px;
+    height: 300px;
+    border-radius: 100% ;
+}
+
+p{
+    font-size: 20px;
+}

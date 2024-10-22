@@ -1,0 +1,8 @@
+.content{
+    width:95%;
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    text-align: center;
+}

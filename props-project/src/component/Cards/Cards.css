@@ -1,0 +1,28 @@
+
+.cards{
+    padding:20px 40px;
+    border: 1px solid grey;
+    border-radius: 20px;
+    background-color:rgb(145, 100, 143);
+    color: black;
+
+    
+}
+.cards img{
+    width:  300px;
+    height: 300px;
+    border-radius: 100% ;
+
+}
+
+.card1{
+    background-color: wheat;
+}
+
+.card2{
+    background-color: paleturquoise;
+}
+
+.card3{
+    background-color: pink;
+}
